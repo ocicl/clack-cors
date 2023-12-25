@@ -1,0 +1,10 @@
+* clack-cors
+
+A Clack middleware to set CORS related HTTP headers.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/40ants/clack-cors.git |
+| commit  | 0c6c9e5                                      |
+| systems | clack-cors                                   |
+|---------+----------------------------------------------|
+
