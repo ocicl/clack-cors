@@ -8,3 +8,4 @@ A Clack middleware to set CORS related HTTP headers.
 | systems | clack-cors                                   |
 |---------+----------------------------------------------|
 
+ 
